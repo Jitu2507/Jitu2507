@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Jitu2507
 - 👀 I’m interested in coading, design
-- 🌱 I’m currently learning Rstudio
+- 🌱 I’m currently learning Rstudio, Python, Java
 - 💞️ I’m looking to collaborate on projects 
 - 📫 How to reach me mail: inda07jitendra@gmail.com
 
